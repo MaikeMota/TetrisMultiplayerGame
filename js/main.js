@@ -6,7 +6,7 @@ localTetris.run();
 
 const connectionManager = new ConnectionManager(tetrisManager);
 
-connectionManager.connect('ws://tetris-maikemota-com-br.umbler.net:3000');
+connectionManager.connect('ws://tetris-multiplayer-game.herokuapp.com');
 
 const controllers = [
     {
