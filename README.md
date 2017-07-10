@@ -2,4 +2,4 @@
 
 A multiplayer Tetris game made with NodeJS and HTML
 
-[See a live demo](tetris.maikemota.com.br)
+[See a live demo](http://tetris.maikemota.com.br)
