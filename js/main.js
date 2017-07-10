@@ -6,7 +6,7 @@ localTetris.run();
 
 const connectionManager = new ConnectionManager(tetrisManager);
 
-connectionManager.connect('ws://localhost:9000');
+connectionManager.connect('ws://tetris-maikemota-com-br.umbler.net:3000');
 
 const controllers = [
     {
